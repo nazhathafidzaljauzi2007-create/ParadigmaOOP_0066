@@ -5,7 +5,7 @@ class Mahasiswa
 {
     public:
         int nim;
-        string nama;
+        string nama; 
         float nilai;
         void printData()
         {
